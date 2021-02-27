@@ -1,5 +1,5 @@
 #!name=TikTok
-#!desc=TikTok Ads Remove
+#!desc=Remove TikTok Ads
 #!system=ios
 
 [URL Rewrite]
